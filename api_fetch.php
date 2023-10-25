@@ -1,6 +1,6 @@
 <?php
 
-header("Content-Type : application/json");
+header("Content-Type: application/json");
 header("Acess-Control-Allow-Origin: *");
 
 include_once("connection.php");
